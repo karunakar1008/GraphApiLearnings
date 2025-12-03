@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphApiDemoConsole1", "GraphApiDemoConsole1\GraphApiDemoConsole1.csproj", "{20AD2154-6D19-49A7-909B-CA8AE05CF72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiWebAssembly", "WebApiWebAssembly\WebApiWebAssembly.csproj", "{9CB2C7AF-380C-4C04-9B3B-DDE0C0DE12AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AD2154-6D19-49A7-909B-CA8AE05CF72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AD2154-6D19-49A7-909B-CA8AE05CF72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AD2154-6D19-49A7-909B-CA8AE05CF72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AD2154-6D19-49A7-909B-CA8AE05CF72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CB2C7AF-380C-4C04-9B3B-DDE0C0DE12AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CB2C7AF-380C-4C04-9B3B-DDE0C0DE12AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CB2C7AF-380C-4C04-9B3B-DDE0C0DE12AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CB2C7AF-380C-4C04-9B3B-DDE0C0DE12AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE85CC4-02B1-4247-8F45-5A6C04AEB2F2}
+	EndGlobalSection
+EndGlobal
