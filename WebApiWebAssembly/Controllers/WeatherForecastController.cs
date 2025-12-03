@@ -22,6 +22,7 @@ namespace WebApiWebAssembly.Controllers
             _logger = logger;
         }
 
+        //https://localhost:7035/WeatherForecast
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
